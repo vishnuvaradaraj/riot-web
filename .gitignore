@@ -9,6 +9,8 @@
 /electron_app/dist
 /packages/
 /webapp
+/matrix-js-sdk/
+/matrix-react-sdk/
 /.npmrc
 .DS_Store
 npm-debug.log
