@@ -97,7 +97,6 @@
     "Send logs": "Wyślij logi",
     "Sorry, your browser is <b>not</b> able to run Riot.": "Przepraszamy, Twoja przeglądarka <b>nie jest w stanie</b> uruchomić Riot.",
     "powered by Matrix": "napędzany przez Matrix",
-    "Redact": "Zredaguj",
     "Reject": "Odrzuć",
     "Remove": "Usuń",
     "remove %(name)s from the directory.": "usuń %(name)s z katalogu.",
@@ -207,5 +206,13 @@
     "Event Type": "Typ wydarzenia",
     "Event Content": "Zawartość wydarzenia",
     "State Key": "Klucz stanu",
-    "Invite to this group": "Zaproś do tej grupy"
+    "Toolbox": "Przybornik",
+    "Edit": "Edycja",
+    "Show message in desktop notification": "Pokaż wiadomość w notyfikacji na pulpicie",
+    "Unpin Message": "Odepnij Wiadomość",
+    "Pin Message": "Przypnij Wiadomość",
+    "Register": "Rejestracja",
+    "Rooms": "Pokoje",
+    "Invite to this community": "Zaproś do tej społeczności",
+    "Add rooms to this community": "Dodaj pokoje do tej społeczności"
 }

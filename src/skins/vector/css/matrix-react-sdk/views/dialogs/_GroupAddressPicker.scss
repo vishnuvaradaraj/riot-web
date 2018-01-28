@@ -14,8 +14,12 @@ See the License for the specific language governing permissions and
 limitations under the License.
 */
 
-.mx_GroupRoomTile {
-    position: relative;
-    color: $primary-fg-color;
-    cursor: pointer;
+.mx_GroupAddressPicker_checkboxContainer{
+    margin-top: 10px;
+    display: flex;
+}
+
+.mx_GroupAddressPicker_checkboxContainer input[type="checkbox"] {
+    /* Stop flex from shrinking the checkbox */
+    width: 20px;
 }
